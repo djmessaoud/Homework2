@@ -1,1 +1,2 @@
-# Homework2
+# HomeWork2
+HandWriting classification
